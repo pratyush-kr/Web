@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+body{
+    background-color: orange;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: auto;
+}
+
+.container{
+    background-color: darkslateblue;
+}
